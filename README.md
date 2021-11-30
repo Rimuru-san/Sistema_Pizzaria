@@ -24,6 +24,7 @@ private $db_name = "Pizzaria"; // Nome do Banco de Dados
 5. Login como visitante você será automaticamente redirecionado para realiza-lo.
 
 6. Login como administrador você terá que acessar manualmente pela url que ao invés de ser login.php será loginAdmin.php
+
 6.1 E-mail : admin@gmail.com
 6.2 Senha: admin
 
