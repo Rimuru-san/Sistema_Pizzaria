@@ -7,7 +7,7 @@ Guia Rápido que o projeto seja iniciado em seu ambiente
 
 2. Execute os comandos dentro da pasta ./backend/bd_crud/database.sql para criar o banco de dados.
 
-3.Depois do banco de dados criado vamos realizar as devidas modificações no arquivo ./backend/bd_crud/crud.php.
+3. Depois do banco de dados criado vamos realizar as devidas modificações no arquivo ./backend/bd_crud/crud.php.
 
 private $db_host = "localhost"; // HOST Banco de Dados
 
